@@ -65,21 +65,21 @@ salt-call pkg.list_pkgs
 
 ---
 
-**Step 1 - Add script to SaltStack Config File Manager:**  
+###### Step 1 - Add script to SaltStack Config File Manager: 
 
 See code examples below to add Windows Server Features|Roles, Installed Software, and Runnings Services as grain data.  
 {{< image title="" w="" h="" o="webp q1" p="center" c="rounded" src="images/post/Salt-49.PNG" >}}
-<a href="images/post/Salt-49.PNG" target="_blank">Click Here to see Larger Image of Screen Shot</a>
+<a href="https://github.com/dalehassinger/geeky/raw/main/assets/images/post/Salt-49.PNG" target="_blank">Click Here to see Larger Image of Screen Shot</a>
 
 
-**Step 2 - Create SaltStack Config Job:**  
+###### Step 2 - Create SaltStack Config Job:
 {{< image title="" w="" h="" o="webp q1" p="center" c="rounded" src="images/post/Salt-50.PNG" >}}
-[Click Here to see Larger Image of Screen Shot](https://www.vcrocs.info/images/post/Salt-50.PNG)
+<a href="https://github.com/dalehassinger/geeky/raw/main/assets/images/post/Salt-50.PNG" target="_blank">Click Here to see Larger Image of Screen Shot</a>
 
 
-**Step 3 - Create SaltStack Config Schedule:**  
+###### Step 3 - Create SaltStack Config Schedule:
 {{< image title="" w="" h="" o="webp q1" p="center" c="rounded" src="images/post/Salt-51.PNG" >}}
-[Click Here to see Larger Image of Screen Shot](https://www.vcrocs.info/images/post/Salt-51.PNG)
+<a href="https://github.com/dalehassinger/geeky/raw/main/assets/images/post/Salt-51.PNG" target="_blank">Click Here to see Larger Image of Screen Shot</a>
 
 ---  
 
@@ -363,9 +363,9 @@ Invoke-Expression -Command $saltCommand
 
 ---
 
-**SaltStack Config Target using Windows Server Running Service (SQL Server):**  
+###### SaltStack Config Target using Windows Server Running Service (SQL Server):
 {{< image title="" w="" h="" o="webp q1" p="center" c="rounded" src="images/post/Salt-52.PNG" >}}
-[Click Here to see Larger Image of Screen Shot](https://www.vcrocs.info/images/post/Salt-52.PNG)
+<a href="https://github.com/dalehassinger/geeky/raw/main/assets/images/post/Salt-52.PNG" target="_blank">Click Here to see Larger Image of Screen Shot</a>
 
 ---
 
@@ -378,13 +378,15 @@ Lessons Learned:
 ---
 
 Salt Links I found to be very helpful:
-* [SaltStack Cheat Sheet](https://sites.google.com/site/mrxpalmeiras/saltstack/salt-cheat-sheet)
-* [SaltStack Tutorials](https://docs.saltproject.io/en/getstarted/)
-* [SaltStack Documentation](https://docs.saltproject.io/en/latest/contents.html)
-* [SaltStack Community Slack Channel](https://saltstackcommunity.slack.com)
-* [learnvrealizeautomation.github.io](https://learnvrealizeautomation.github.io)
+* <a href="https://sites.google.com/site/mrxpalmeiras/saltstack/salt-cheat-sheet" target="_blank">SaltStack Cheat Sheet</a>
+* <a href="https://docs.saltproject.io/en/getstarted/"                            target="_blank">SaltStack Tutorials</a>
+* <a href="https://docs.saltproject.io/en/latest/contents.html"                   target="_blank">SaltStack Documentation</a>
+* <a href="https://saltstackcommunity.slack.com"                                  target="_blank">SaltStack Community Slack Channel</a>
+* <a href="https://learnvrealizeautomation.github.io"                             target="_blank">Learn vRealize Automation</a>
+* <a href="https://learnsaltstackconfig.github.io/"                               target="_blank">Learn SaltStack Config</a>
 
 ---
+
 <div>
 When I write about <b>vRealize Automation</b> ("vRA") I always say there are many ways to accomplish the same task.  <b>SaltStack Config</b> is the same way.  I am showing what I felt was important to see but every organization/environment will be different. There is no right or wrong way to use Salt. This is a <b>GREAT Tool</b> that is included with your vRealize Suite Advanced/Enterprise license. If you own the vRealize Suite, you own SaltStack Config.
 </div>
