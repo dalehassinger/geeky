@@ -1,1 +1,1 @@
-# Source files for geeky-higo web site
+# Source files for geeky-hugo web site
