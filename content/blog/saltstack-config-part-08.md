@@ -369,7 +369,7 @@ Invoke-Expression -Command $saltCommand
 
 ---
 
-Lessons Learned:
+###### Lessons Learned:
 * Windows Server Features|Roles make a great way to target minions.
 * Windows Server installed software also makes a great way to target minions.
 * Windows Server Running Services is a good way to target minions.
@@ -377,7 +377,7 @@ Lessons Learned:
 
 ---
 
-Salt Links I found to be very helpful:
+###### Salt Links I found to be very helpful:
 * <a href="https://sites.google.com/site/mrxpalmeiras/saltstack/salt-cheat-sheet" target="_blank">SaltStack Cheat Sheet</a>
 * <a href="https://docs.saltproject.io/en/getstarted/"                            target="_blank">SaltStack Tutorials</a>
 * <a href="https://docs.saltproject.io/en/latest/contents.html"                   target="_blank">SaltStack Documentation</a>

@@ -42,7 +42,7 @@ hasChildren = true
 # footer menu
 [[footer]]
 name = "Home"
-url = "/"
+url = ""
 weight = 1
 
 [[footer]]

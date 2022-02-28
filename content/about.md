@@ -12,30 +12,39 @@ education:
   education_list:
   - name: "VMware vExpert"
     content: "2020 - 2022"
-  - name: "VMware vExpert - Cloud Management"
+  - name: "VMware vExpert | Cloud Management"
     content: "2021"
-  - name: "Easteast University"
-    content: "1985 • 1991 • gravida nibh velvelit auctor alimo quet menean solli"
-  - name: "Southeast University"
-    content: "1985 • 1991 • gravida nibh velvelit auctor alimo quet menean solli"
+  - name: "SaltConf Session"
+    content: "2021 | Managing Windows with SaltStack Config"
+  - name: "VMworld Session"
+    content: "2021 | Manage Windows Workloads Through vRealize Automation SaltStack Config [MCL1895]"
+  - name: "VMware PowerBlock"
+    content: "2021 | Customer Showcase - VM Right Sizing"
+  - name: "VMware PowerBlock"
+    content: "2020 | vRealize Operations, your monitoring “Single Pane of Glass”"
+  - name: "vBrownbag session for VMworld"
+    content: "2020 | vRealize Operations, your monitoring “Single Pane of Glass"
 
 # experience
 experience:
   enable: true
-  title: "Presentations"
+  title: "Products that I Blog About"
   experience_list:
-  - "Best Writer Award 111111 sdfgjhdgfkjdg dfglkjgdljkgd gdglkdg dgldkjgdlkjgdjlkg"
-  - "Best New Newel"
-  - "Best Book"
-  - "Best Article"
-  - "Best New Newel"
-  - "Best New Newel"
-  - "Best Book"
-  - "Best Article"
-  - "Best New Newel"
-  - "Best Book"
+  - "VMware vSphere"
+  - "VMware vCenter"
+  - "vRealize Automation"
+  - "vRealize SaltStack Config"
+  - "vRealize Operations"
+  - "PowerShell"
+  - "PowerCLI"
+  - "vRealize Log Insight"
+  - "Windows Servers"
+  - "Linux Servers"
 
 ---
+
+###### Lead Systems Engineer, SME, vExpert 2020 - 2022, vExpert Cloud Management 2021
+###### If you can script it, You can Automate it...
 
 ---
 
@@ -52,3 +61,33 @@ I have learned a lot from the vCommunity, Powershell and PowerCLI web sites. I w
 The code that I have shared I use with vRealize Automation Cloud Templates/Catalog Items and everyday VMware Admin functions. Everyday I learn something new. If I think it should be shared I will write a blog about it. Check back often to see what I am doing next.  
 
 ---
+
+###### Thanks:
+
+I have worked with a great group of people at VMware, past and present. I would like to thank the following people for all their support in no particular order: Steve Leiberson, Karl Hauck, Cosmin Trif, Brock Peterson, Kevin Holland, Daniel Thomas, Marcus Roberts, Paul Schlosser.
+
+Special Thanks to David Kruse for getting me started with vRA.
+
+Special Thanks to some past co-workers, SEs, TAMs, HVC Members that I learned a lot from: Kirk Shaffer, Robert Mitchell, Dan Grove, Steve Holmes, Steve Pittenger, Anton Wesztergom (Opened my eyes to vRA Day 2).
+
+List of Bloggers that I follow and have learned a lot by them “Giving Back”: Cody De Arkland, Luc Dekens, Kyle Ruddy, William Lam, Nathen Bennett, Vince Wood, Alan Renouf.
+
+Special Thanks to the person that gave me my first Job in IT: David Cornelius
+
+and anyone else that helped me in my journey called my career…
+
+---
+
+I like to wear Crocs and I like VMware Products. So what better name than "vCrocs"...
+
+Thanks for visiting!
+
+---
+
+###### "9 - 5 pays the bills, 5 - 10 advances your career"
+
+---
+
+{{< image title="" w="" h="" o="webp q1" p="center" c="rounded" src="images/post/vexpert-2022.png" alt="alter-text" >}}
+{{< image title="" w="" h="" o="webp q1" p="center" c="rounded" src="images/post/vexpert-2022-3-stars.png" alt="alter-text" >}}
+{{< image title="" w="" h="" o="webp q1" p="center" c="rounded" src="images/post/vexpert-cloud-management.png" alt="alter-text" >}}

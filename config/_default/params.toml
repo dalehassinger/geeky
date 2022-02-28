@@ -47,7 +47,7 @@ preloader = "" # use jpg, png, svg or gif format.
 [banner]
 enable = true
 title_large = "<center>vCROCS</center>"
-title_small = "<center>Tips | Tricks for the VMware vRealize Suite</center>"
+title_small = "<center>Enterprise Automation | Config Management | Monitoring| and more...</center>"
 image = "images/banner.png"
 background_image = "/images/banner-bg-shape.svg"
 content = "<center>vRealize Automation | vRealize Operations | SaltStack Config | Log Insight | PowerCLI | PowerShell | and more...</center>"

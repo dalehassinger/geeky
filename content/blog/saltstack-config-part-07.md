@@ -21,7 +21,7 @@ type: "regular" # available types: [featured/regular]
 draft: false
 ---
 <div>
-  <b>Part 7:</b>
+  <b>Part 7: Windows Server Features|Roles and Installed Software as grain data</b>
 </div>
 <div>
   <br>
@@ -251,13 +251,13 @@ Show all minions that have VMware Tools | 11.3.5.18557794 installed
 
 ---
 
-Lessons Learned:
+###### Lessons Learned:
 * Windows Server Features|Roles make a great way to target minions.
 * Windows Server installed software also makes a great way to target minions.
 
 ---
 
-Salt Links I found to be very helpful:
+###### Salt Links I found to be very helpful:
 * <a href="https://sites.google.com/site/mrxpalmeiras/saltstack/salt-cheat-sheet" target="_blank">SaltStack Cheat Sheet</a>
 * <a href="https://docs.saltproject.io/en/getstarted/"                            target="_blank">SaltStack Tutorials</a>
 * <a href="https://docs.saltproject.io/en/latest/contents.html"                   target="_blank">SaltStack Documentation</a>
