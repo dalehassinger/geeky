@@ -19,6 +19,7 @@ tags:
 type: "regular" # available types: [featured/regular]
 draft: false
 ---
+
 <div>
   <b>Part 3: How to use SaltStack Config with Windows Server and PowerShell</b>
 </div>
