@@ -16,7 +16,7 @@ tags:
 - Automation
 - grains
 - PowerShell Module
-type: "regular" # available types: [featured/regular]
+type: "featured" # available types: [featured/regular]
 draft: false
 ---
 <div>

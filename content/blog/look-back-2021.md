@@ -44,7 +44,7 @@ I always say if one person finds anything I post helpful, I will consider my eff
 * I did several vRealize Automation Presentations at VMware HVC (Healthcare Virtualization Community) Events.
 * PowerBlock Customer Showcase - VM "Right Sizing"
 * I did a IDC interview for VMware on Automation that will be released in 2022.
-* I did a VMware Customer Profile Interview that will be released in 2022.
+* I did a VMware Customer Reference Interview that will be released in 2022. <a href="https://blogs.vmware.com/management/2022/03/vra-optimize-healthcare-outcomes.html" target="_blank">Link to Customer Reference</a>
 * I shared a vRealize Operations "Right Sizing" Dashboard on the code.vmware.com web site.
 
 ---

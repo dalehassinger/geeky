@@ -36,7 +36,7 @@ I think that 2021 was one of my most productive years and one that I advanced my
 * I did several vRealize Automation Presentations at VMware HVC (Healthcare Virtualization Community) Events.
 * PowerBlock Customer Showcase - VM “Right Sizing”
 * I did a IDC interview for VMware on Automation that will be released in 2022.
-* I did a VMware Customer Profile Interview that will be released in 2022.
+* I did a VMware Customer Reference Interview that will be released in 2022. <a href="https://blogs.vmware.com/management/2022/03/vra-optimize-healthcare-outcomes.html" target="_blank">Link to Customer Reference</a>
 * I shared a vRealize Operations “Right Sizing” Dashboard on the code.vmware.com web site.
 
 ---
@@ -76,5 +76,9 @@ I have learned a lot from the vCommunity. I want to use this blog as a way for m
 Email: Dale.Hassinger@vCrocs.info  
 Location: Dillsburg, PA
 
-###### "9 - 5 pays the bills, 5 - 10 advances your career"
+<div style="background-color:#ffad33; Padding:20px; border: 1.5px solid black; color: white; font-size:18px;" >
+  <b>"9 - 5 pays the bills, 5 - 10 advances your career"</b>
+</div>
+
+<div><br></div>
 
