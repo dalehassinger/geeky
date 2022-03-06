@@ -22,9 +22,14 @@ url = "blog/links/"
 weight = 4
 
 [[main]]
+name = "Twitter Feed"
+url = "blog/twitter/"
+weight = 5
+
+[[main]]
 name = "Pages"
 url = "#"
-weight = 5
+weight = 6
 hasChildren = true
 
   [[main]]
