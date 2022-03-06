@@ -26,7 +26,9 @@ draft: false
   <br>
 </div>
 
-I have been using VMware vRealize SaltStack Config for several months and I thought I would share and create my own cheat sheet to show which functions I use the most as a Windows Server admin and how to format the syntax. I still feel that I barely use all the capabilities that salt has to offer. SaltStack Config is a very Powerful tool to have available for anyone that has a vRealize Suite License. As a Windows Server admin don't be afraid of salt because you feel it was made for Linux admins.  That is NOT the case. I will be managing all Windows Server in my environment with salt.  That includes VMs in vCenter and cloud native Azure VMs.
+I have been using VMware vRealize SaltStack Config for several months and I thought I would share and create my own cheat sheet to show which functions I use the most as a Windows Server admin and how to format the syntax. I still feel that I barely use all the capabilities that salt has to offer. SaltStack Config is a very Powerful tool to have available for anyone that has a vRealize Suite License. As a Windows Server admin don't be afraid of salt because you feel it was made for Linux admins.  That is NOT the case. I will be managing all Windows Server in my environment with salt.  That includes VMs in vCenter and cloud native Azure VMs.  
+
+This cheat sheet will be updated often to show examples as my journey into the salt world continues. Check back often.  
 
 [Link to salt module Documentation](https://docs.saltproject.io/en/latest/py-modindex.html)
 
