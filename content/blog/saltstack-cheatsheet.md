@@ -266,6 +266,15 @@ vCROCS01:
  
 {{< /highlight >}}
 
+###### Join Domain:
+
+{{< highlight html >}}
+ 
+> Command join minion to a Windows Domain. You can also specify OU that computer object will be located:
+salt "vCROCS01" system.join_domain domain='vcrocs.info' username='vcrocs\administrator' password='VMware1!' account_ou='OU=Dev,OU=Servers,DC=vcrocs,DC=info' account_exists=False restart=True
+ 
+{{< /highlight >}}
+
 ###### Windows Registry:
 
 {{< highlight html >}}
@@ -278,7 +287,7 @@ vCROCS01:
     True
  
 {{< /highlight >}}
-  
+
 {{< image title="" w="" h="" o="webp q1" p="center" c="rounded" src="images/post/registry01.png" >}}  
 <a href="https://github.com/dalehassinger/geeky/raw/main/assets/images/post/registry01.png" target="_blank">Click Here to see Larger Image of Screen Shot</a>
 
