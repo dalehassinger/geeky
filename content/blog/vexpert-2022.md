@@ -76,7 +76,7 @@ I have learned a lot from the vCommunity. I want to use this blog as a way for m
 Email: Dale.Hassinger@vCrocs.info  
 Location: Dillsburg, PA
 
-<div style="background-color:#ffad33; Padding:20px; border: 1.5px solid black; color: white; font-size:18px;" >
+<div style="background-color:#ffcc80; Padding:20px; font-size:18px;" >
   <b>"9 - 5 pays the bills, 5 - 10 advances your career"</b>
 </div>
 

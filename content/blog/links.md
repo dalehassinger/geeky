@@ -17,7 +17,7 @@ draft: false
 
 ###### Links to some of my favorite Bloggers and Content:
 
-<div style="background-color:#fff5e6; Padding:20px; border: 1.5px solid black; color: black;" >
+<div style="background-color:#fff5e6; Padding:20px; border: 1.5px solid #f2f2f2; color: black;" >
     <b>Bloggers:</b>
         <ul>
             <li><a href="https://www.brockpeterson.com" target="_blank" style="color: black;">Brock Peterson - vRealize Master</a></li>
@@ -29,7 +29,7 @@ draft: false
 
 <div><br></div>
 
-<div style="background-color:#fff5e6; Padding:20px; border: 1.5px solid black; color: black;" >
+<div style="background-color:#fff5e6; Padding:20px; border: 1.5px solid #f2f2f2; color: black;" >
     <b>VMware:</b>
         <ul>
             <li><a href="https://www.vmwareopsguide.com/"                             target="_blank" style="color: black;">VMware Operations Management Book - Great Book!</a></li>
@@ -49,7 +49,7 @@ draft: false
 
 <div><br></div>
 
-<div style="background-color:#fff5e6; Padding:20px; border: 1.5px solid black; color: black;" >
+<div style="background-color:#fff5e6; Padding:20px; border: 1.5px solid #f2f2f2; color: black;" >
     <b>Podcasts:</b>
         <ul>
             <li><a href="https://itr-it-reality.zencast.website/episodes/21" target="_blank" style="color: black;">IT Reality Podcast</a>

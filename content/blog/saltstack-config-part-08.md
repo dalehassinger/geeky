@@ -385,8 +385,6 @@ Invoke-Expression -Command $saltCommand
 * <a href="https://learnvrealizeautomation.github.io"                             target="_blank">Learn vRealize Automation</a>
 * <a href="https://learnsaltstackconfig.github.io/"                               target="_blank">Learn SaltStack Config</a>
 
----
-
-<div>
+<div style="background-color:#ccffcc; Padding:20px;" >
 When I write about <b>vRealize Automation</b> ("vRA") I always say there are many ways to accomplish the same task.  <b>SaltStack Config</b> is the same way.  I am showing what I felt was important to see but every organization/environment will be different. There is no right or wrong way to use Salt. This is a <b>GREAT Tool</b> that is included with your vRealize Suite Advanced/Enterprise license. If you own the vRealize Suite, you own SaltStack Config.
 </div>
