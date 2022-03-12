@@ -27,9 +27,14 @@ url = "blog/twitter/"
 weight = 5
 
 [[main]]
+name = "Images"
+url = "blog/image-gallery-showcase/"
+weight = 6
+
+[[main]]
 name = "Pages"
 url = "#"
-weight = 6
+weight = 7
 hasChildren = true
 
   [[main]]
