@@ -1,13 +1,15 @@
 ---
-title: "vExpert 2022"
+title: "vExpert 2022 | vExpert Cloud Management"
 description: "description"
 image: "images/post/vexpert-2022-01.png"
 date: 2022-02-22T00:00:00-05:00
-categories: ["vExpert"]
+categories: ["VMware vExpert"]
 tags:
-- vExpert 2020
-- vExpert 2021
-- vExpert 2022
+- Vmware vExpert 2020
+- VMware vExpert 2021
+- VMware vExpert 2022
+- VMware vExpert Cloud Management 2021
+- VMware vExpert Cloud Management 2022
 - Giving Back
 - VMware
 - vRealize
@@ -17,14 +19,17 @@ type: "featured" # available types: [featured/regular]
 draft: false
 ---
 
-##### vExpert 2020 - 2022  
+##### VMware vExpert 2020 - 2022 | VMware vExpert Cloud Management 2021 - 2022
 
 {{< image title="" w="" h="" o="webp q1" p="center" c="rounded" src="images/post/vexpert-2022.png" alt="alter-text" >}}
 {{< image title="" w="" h="" o="webp q1" p="center" c="rounded" src="images/post/vexpert-2022-3-stars.png" alt="alter-text" >}}
+{{< image title="" w="" h="" o="webp q1" p="center" c="rounded" src="images/post/vexpert-cloud-management.png" alt="alter-text" >}}
 
 ---
 
 I am very proud to be part of the VMware vExpert program.  This is the third year that I was accepted into the program. One part of the vExpert program that I think is great is that the program recognizes people for sharing their knowledge and "Giving Back". A person selected into the vExpert programs is someone that likes to share, wants to make themselves and everyone around them smarter.  
+
+2022 is also the 2nd year that I was accepted into the VMware vExpert Cloud Management subprogram.  
 
 I think that 2021 was one of my most productive years and one that I advanced my own personal knowledge the most.  
 

@@ -44,14 +44,14 @@ experience:
 ---
 
 <div style="background-color:#ffcc80; Padding:20px;" ><b>
-Lead Systems Engineer, SME, vExpert 2020 - 2022, vExpert Cloud Management 2021
+Lead Systems Engineer | SME | VMware vExpert 2020 - 2022 | VMware vExpert Cloud Management 2021 - 2022
 
 If you can script it, You can Automate it!
 </b></div>
 
 <div><br></div>
 
-My current focus is Enterprise Automation, Monitoring and Logging. I am using VMware vRealize Automation and SaltStack Config to complete server builds, software installs, schedule VM snap shots, Microsoft 365 automation, Citrix Management, Automate Data Center Flips, Server Decommissions, and many other Day 2 processes… For monitoring I use vRealize Operations for the “Single Pane of Glass” experience. I also use vRealize Log Insight for logging and LCM (Life Cycle Manager) for installing all the vRealize Products.
+My current focus is Enterprise Automation, Monitoring and Logging. I have created an IaC (Infrastructure as Code) Environment. I am using VMware vRealize Automation and SaltStack Config to complete server builds, software installs, schedule VM snap shots, Microsoft 365 automation, Citrix Management, Automate Data Center Flips, Server Decommissions, and many other Day 2 processes… For monitoring I use vRealize Operations for the “Single Pane of Glass” experience. I also use vRealize Log Insight for logging and LCM (Life Cycle Manager) for installing all the vRealize Products.
 
 Almost all the code I write to complete the Automation that I create is done with PowerShell. The reason I choose to use PowerShell is because to do Automation with VMware products they have released their product PowerCLI, which is built on top of PowerShell. There hasn’t been anything that I wanted to Automate that I haven’t been able to do with PowerShell. To do remote Citrix management also works very well using PowerShell.
 
@@ -65,7 +65,7 @@ The code that I have shared I use with vRealize Automation Cloud Templates/Catal
 
 ###### Thanks:
 
-I have worked with a great group of people at VMware, past and present. I would like to thank the following people for all their support in no particular order: Steve Leiberson, Karl Hauck, Cosmin Trif, Brock Peterson, Kevin Holland, Daniel Thomas, Marcus Roberts, Paul Schlosser.
+I have worked with a great group of people at VMware, past and present. I would like to thank the following people for all their support in no particular order: Steve Leiberson, Karl Hauck, Cosmin Trif, Brock Peterson, Kevin Holland, Daniel Thomas, Marcus Roberts, Paul Schlosser, Eric Pennente.
 
 Special Thanks to David Kruse for getting me started with vRA.
 
