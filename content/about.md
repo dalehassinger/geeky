@@ -69,7 +69,7 @@ I have worked with a great group of people at VMware, past and present. I would 
 
 Special Thanks to David Kruse for getting me started with vRA.
 
-Special Thanks to some past and present co-workers, SEs, TAMs, HVC Members that I learned a lot from: Kirk Shaffer, Robert Mitchell, Dan Grove, Steve Holmes, Steve Pittenger, Anton Wesztergom (Opened my eyes to vRA Day 2), Ryan Palmer, Megan Koss.
+Special Thanks to some past and present co-workers, SEs, TAMs, HVC Members that I learned a lot from: Kirk Shaffer, Robert Mitchell, Dan Grove, Steve Holmes, Steve Pittenger, Anton Wesztergom (Opened my eyes to vRA Day 2), Ryan Palmer, Megan Koss, Josh Demcher.
 
 List of Bloggers that I follow and have learned a lot by them “Giving Back”: Cody De Arkland, Luc Dekens, Kyle Ruddy, William Lam, Nathen Bennett, Vince Wood, Alan Renouf.
 

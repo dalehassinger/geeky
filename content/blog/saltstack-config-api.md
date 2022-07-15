@@ -62,7 +62,7 @@ The Python Code completes the following steps:
 # --- Use what works best in your environment.
 
 # example to run the script
-# python3 /scripts/ScheduleServerReboot.py -name '2019DC' -dateTime 2022-06-25T23:00'
+# python3 /scripts/ScheduleServerReboot.py -name '2019DC' -dateTime '2022-06-25T23:00'
 
 import argparse
 import pprint
@@ -105,51 +105,68 @@ password = 'HackMe!'
 from sseapiclient.tornado import SyncClient
 client = SyncClient.connect(host, user, password, ssl_validate_cert=False)
 
-# --- Create Target ID | Name
-targetID = 'id:' + argName
-targetName = "vRA | Reboot | " + argName + ' | ' + argDate + ' | ID:' + randomNumber
-print('Target ID:',targetID)
-print('Target Name:',targetName)
+# --- Check to make sure minion exists
+minionName = ''
+minionReturn = client.api.minions.get_minion_presence(minion_id = argName)
+#print(targetReturn)
 
-# --- Create New SSC Target
-client.api.tgt.save_target_group(tgt={'*': {'tgt_type': 'grain', 'tgt':targetID}}, name=targetName)
-
-# --- Get UUID of new Target Created
-targetReturn = client.api.tgt.get_target_group(name=targetName)
-for x in targetReturn.ret['results']:
+for x in minionReturn.ret['results']:
     #print(x)
-    targetUUID = x['uuid']
-    print('Target UUID:', targetUUID)
+    minionName = x['minion']
+    print('minionName:', minionName)
+
+if minionName == '':
+    print('Minion not found!')
+    minionExists = 'false'
+else:
+    print('Minion found!')
+    minionExists = 'true'
+
+    # --- Create Target ID | Name
+    targetID = 'id:' + argName
+    targetName = "vRA | Reboot | " + argName + ' | ' + argDate + ' | ID:' + randomNumber
+    print('Target ID:',targetID)
+    print('Target Name:',targetName)
+
+    # --- Create New SSC Target
+    client.api.tgt.save_target_group(tgt={'*': {'tgt_type': 'grain', 'tgt':targetID}}, name=targetName)
+
+    # --- Get UUID of new Target Created
+    targetReturn = client.api.tgt.get_target_group(name=targetName)
+    for x in targetReturn.ret['results']:
+        #print(x)
+        targetUUID = x['uuid']
+        print('Target UUID:', targetUUID)
 
 
-# --- Get UUID of Job to run in Schedule
-#jobReturn=client.api.job.get_jobs()
-jobName = 'vRA | Server Reboot'
-print('Job Name: ',jobName)
-jobReturn = client.api.job.get_jobs(name=jobName)
+    # --- Get UUID of Job to run in Schedule
+    #jobReturn=client.api.job.get_jobs()
+    jobName = 'vRA | Server Reboot'
+    print('Job Name: ',jobName)
+    jobReturn = client.api.job.get_jobs(name=jobName)
 
-for x in jobReturn.ret['results']:
-    #print(x)
-    jobUUID = x['uuid']
-    print('Job UUID:', jobUUID)
+    for x in jobReturn.ret['results']:
+        #print(x)
+        jobUUID = x['uuid']
+        print('Job UUID:', jobUUID)
 
 
-# -- Create a run once Schedule
-# 2022-06-21T13:21 - Date|Time format from vRA
-print('Schedule Time:',argDateTime)
+    # -- Create a run once Schedule
+    # 2022-06-21T13:21 - Date|Time format from vRA
+    print('Schedule Time:',argDateTime)
 
-# --- Create Schedule Name
-scheduleName = 'vRA | Reboot | ' + argName + ' | ' + argDate + ' | ID:' + randomNumber
-print('Schedule Name:', scheduleName)
+    # --- Create Schedule Name
+    scheduleName = 'vRA | Reboot | ' + argName + ' | ' + argDate + ' | ID:' + randomNumber
+    print('Schedule Name:', scheduleName)
 
-# --- Create Run Once Schedule
-scheduleReturn = client.api.schedule.save(
-    name=scheduleName,
-    schedule={'once': argDateTime, 'timezone': 'America/New_York'},
-    cmd="local",
-    tgt_uuid=targetUUID,
-    job_uuid=jobUUID
-)
+    # --- Create Run Once Schedule
+    scheduleReturn = client.api.schedule.save(
+        name=scheduleName,
+        schedule={'once': argDateTime, 'timezone': 'America/New_York'},
+        cmd="local",
+        tgt_uuid=targetUUID,
+        job_uuid=jobUUID
+    )
 
 # --- Send Email about vRA Request using gmail.
 sender_email   = "dale.hassinger@gmail.com"
@@ -162,23 +179,41 @@ message["From"]    = sender_email
 message["To"]      = receiver_email
 
 # --- Create HTML Body
-html = """
-<html>
-<body>
-<div style="font-family: Arial, sans-serif; font-size: 14px;"><b>A Request to reboot a AWS EC2 was run from vRA.</b></div>
-<div style="font-family: Arial, sans-serif; font-size: 14px;"></div><br>
-<div style="font-family: Arial, sans-serif; font-size: 14px;"><b>EC2 Information:</b></div>
-<ul style="list-style-type:disc">
-<div style="font-family: Arial, sans-serif; font-size: 12px;"><li><b>EC2 Name: """         + argName      + """</b></li></div>
-<div style="font-family: Arial, sans-serif; font-size: 12px;"><li>Target Created: """      + targetName   + """</li></div>
-<div style="font-family: Arial, sans-serif; font-size: 12px;"><li>Schedule Created: """    + scheduleName + """</li></div>
-<div style="font-family: Arial, sans-serif; font-size: 12px;"><li>Reboot Date | Time: """  + argDateTime  + """</li></div>
-</ul>
-<div style="font-family: Arial, sans-serif; font-size: 11px;"><b>vCROCS - Automated IT </b></div>
-<div style="font-family: Arial, sans-serif; font-size: 10px;">#VMware #vRealize #SaltStackConfig</div>
-</body>
-</html>
-"""
+if minionExists == 'true':
+    html = """
+    <html>
+    <body>
+    <div style="font-family: Arial, sans-serif; font-size: 14px;"><b>A Request to reboot a AWS EC2 was run from vRA.</b></div>
+    <div style="font-family: Arial, sans-serif; font-size: 14px;"></div><br>
+    <div style="font-family: Arial, sans-serif; font-size: 14px;"><b>EC2 Information:</b></div>
+    <ul style="list-style-type:disc">
+    <div style="font-family: Arial, sans-serif; font-size: 12px;"><li><b>EC2 Name: """         + argName      + """</b></li></div>
+    <div style="font-family: Arial, sans-serif; font-size: 12px;"><li>Target Created: """      + targetName   + """</li></div>
+    <div style="font-family: Arial, sans-serif; font-size: 12px;"><li>Schedule Created: """    + scheduleName + """</li></div>
+    <div style="font-family: Arial, sans-serif; font-size: 12px;"><li>Reboot Date | Time: """  + argDateTime  + """</li></div>
+    </ul>
+    <div style="font-family: Arial, sans-serif; font-size: 11px;"><b>vCROCS - Automated IT </b></div>
+    <div style="font-family: Arial, sans-serif; font-size: 10px;">#VMware #vRealize #SaltStackConfig</div>
+    </body>
+    </html>
+    """
+elif minionExists == 'false':
+    html = """
+    <html>
+    <body>
+    <div style="font-family: Arial, sans-serif; font-size: 14px;"><b>A Request to reboot a AWS EC2 was run from vRA.</b></div>
+    <div style="font-family: Arial, sans-serif; font-size: 14px;"></div><br>
+    <div style="font-family: Arial, sans-serif; font-size: 14px;"><b>EC2 Information:</b></div>
+    <ul style="list-style-type:disc">
+    <div style="font-family: Arial, sans-serif; font-size: 12px;"><li><b>EC2 Name: """         + argName      + """</b></li></div>
+    </ul>
+    <div style="font-family: Arial, sans-serif; font-size: 14px;"><b>The Server Name was not found in Salt! Please double check name and try again!</b></div>
+    <div style="font-family: Arial, sans-serif; font-size: 14px;"></div><br>
+    <div style="font-family: Arial, sans-serif; font-size: 11px;"><b>vCROCS - Automated IT </b></div>
+    <div style="font-family: Arial, sans-serif; font-size: 10px;">#VMware #vRealize #SaltStackConfig</div>
+    </body>
+    </html>
+    """
 
 # --- HTML MIMEText objects
 emailHTML = MIMEText(html, "html")
