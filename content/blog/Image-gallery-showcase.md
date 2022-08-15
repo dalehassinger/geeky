@@ -25,8 +25,5 @@ draft: false
 {{< image title="" w="" h="" o="webp q1" p="center" c="rounded" src="images/post/pic09.jpg" >}}
 {{< image title="" w="" h="" o="webp q1" p="center" c="rounded" src="images/post/pic10.jpg" >}}
 {{< image title="" w="" h="" o="webp q1" p="center" c="rounded" src="images/post/pic12.jpg" >}}
-{{< image title="" w="" h="" o="webp q1" p="center" c="rounded" src="images/post/pic13.jpg" >}}
-{{< image title="" w="" h="" o="webp q1" p="center" c="rounded" src="images/post/pic14.jpg" >}}
 {{< image title="" w="" h="" o="webp q1" p="center" c="rounded" src="images/post/pic15.jpg" >}}
-{{< image title="" w="" h="" o="webp q1" p="center" c="rounded" src="images/post/pic16.jpg" >}}
 {{< image title="" w="" h="" o="webp q1" p="center" c="rounded" src="images/post/my_current_ride.jpg" >}}

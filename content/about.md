@@ -13,7 +13,7 @@ education:
   - name: "VMware vExpert"
     content: "2020 - 2022"
   - name: "VMware vExpert | Cloud Management"
-    content: "2021"
+    content: "2021 - 2022"
   - name: "SaltConf Session"
     content: "2021 | Managing Windows with SaltStack Config"
   - name: "VMworld Session"
@@ -44,14 +44,14 @@ experience:
 ---
 
 <div style="background-color:#ffcc80; Padding:20px;" ><b>
-Automation Engineer III | VMware vExpert 2020 - 2022 | VMware vExpert Cloud Management 2021 - 2022
+TAM ( Technical Account Manager) | VMware vExpert 2020 - 2022 | VMware vExpert Cloud Management 2021 - 2022  
 
-If you can script it, You can Automate it!
+If you can script it, You can Automate it!  
 </b></div>
 
-<div><br></div>
+* The views and opinions expressed on this blog are my strictly my own and do not reflect the views and opinions of my employer. I Blog about Subjects | Products that I find interesting and will hopefully help someone get started with Automation | Monitoring | Logging by providing some tips | tricks | processes needed.  
 
-My current focus is Enterprise Automation, Monitoring and Logging. I have created an IaC (Infrastructure as Code) Environment. I am using VMware vRealize Automation and SaltStack Config to complete server builds, software installs, schedule VM snap shots, Microsoft 365 automation, Citrix Management, Automate Data Center Flips, Server Decommissions, and many other Day 2 processes… For monitoring I use vRealize Operations for the “Single Pane of Glass” experience. I also use vRealize Log Insight for logging and LCM (Life Cycle Manager) for installing all the vRealize Products.
+My current focus is Enterprise Automation | Monitoring and Logging. I have created an IaC (Infrastructure as Code) Environment. I am using VMware vRealize Automation and SaltStack Config to complete server builds, software installs, schedule VM snap shots, Microsoft 365 automation, Citrix Management, Automate Data Center Flips, Server Decommissions, and many other Day 2 processes… For monitoring I use vRealize Operations for the “Single Pane of Glass” experience. I also use vRealize Log Insight for logging and LCM (Life Cycle Manager) for installing all the vRealize Products.
 
 Almost all the code I write to complete the Automation that I create is done with PowerShell. The reason I choose to use PowerShell is because to do Automation with VMware products they have released their product PowerCLI, which is built on top of PowerShell. There hasn’t been anything that I wanted to Automate that I haven’t been able to do with PowerShell. To do remote Citrix management also works very well using PowerShell.
 
@@ -65,17 +65,21 @@ The code that I have shared I use with vRealize Automation Cloud Templates/Catal
 
 ###### Thanks:
 
-I have worked with a great group of people at VMware, past and present. I would like to thank the following people for all their support in no particular order: Steve Leiberson, Karl Hauck, Cosmin Trif, Brock Peterson, Kevin Holland, Daniel Thomas, Marcus Roberts, Paul Schlosser, Eric Pennente.
+* I have worked with a great group of people at VMware, past and present. I would like to thank the following people for all their support in no particular order: Steve Leiberson, Karl Hauck, Cosmin Trif, Brock Peterson, Kevin Holland, Daniel Thomas, Marcus Roberts, Paul Schlosser, Eric Pennente.
 
-Special Thanks to David Kruse for getting me started with vRA.
+* Special Thanks to David Kruse for getting me started with vRA.
 
-Special Thanks to some past and present co-workers, SEs, TAMs, HVC Members that I learned a lot from: Kirk Shaffer, Robert Mitchell, Dan Grove, Steve Holmes, Steve Pittenger, Anton Wesztergom (Opened my eyes to vRA Day 2), Ryan Palmer, Megan Koss, Josh Demcher.
+* Special Thanks to Vincent Riccio for allowing me to do SaltStack Config Presentations with you at VMworld 21 and SaltConf 21.  
 
-List of Bloggers that I follow and have learned a lot by them “Giving Back”: Cody De Arkland, Luc Dekens, Kyle Ruddy, William Lam, Nathen Bennett, Vince Wood, Alan Renouf.
+* Special Thanks to my first manager at VMware: Alex Musicante. You believed in me and my passion/skills/knowledge of the VMware Products. You gave me a career opportunity that no one else did.
 
-Special Thanks to the person that gave me my first Job in IT: David Cornelius
+* Special Thanks to some past and present co-workers, SEs, TAMs, HVC Members that I learned a lot from: Kirk Shaffer, Robert Mitchell, Dan Grove, Steve Holmes, Steve Pittenger, Anton Wesztergom (Opened my eyes to vRA Day 2), Ryan Palmer, Megan Koss, Josh Demcher.
 
-and anyone else that helped me in my journey called my career…
+* Special Thanks to the person that gave me my first Job in IT: David Cornelius
+
+* List of Bloggers that I follow and have learned a lot by them “Giving Back”: Cody De Arkland, Luc Dekens, Kyle Ruddy, William Lam, Nathen Bennett, Vince Wood, Alan Renouf.
+
+* and anyone else that helped me in my journey called my career…
 
 <div style="background-color:#ccffcc; Padding:20px;" >
 I like to wear Crocs and I like VMware Products. So what better name than "vCrocs"...
