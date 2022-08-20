@@ -2,7 +2,7 @@
 title: "Central PA VMUG | August 2022"
 description: "description"
 #image: "images/post/vexpert-2022-01.png"
-date: 2022-08-25T00:00:00-05:00
+date: 2020-01-01T00:00:00-05:00
 #categories: ["vExpert"]
 tags:
 - Favorite Links
@@ -27,7 +27,7 @@ VMware Explore is always one of the premiere Technology Events every year. Here 
 
 * I always tried to attend the Keynotes to learn about new product announcements and to hear the direction that VMware was going.
 * I attended a lot of sessions. See list of sessions that I would enjoy.
-* I would would do Hands on Labs that were not available to do anytime. There are some HOLs that are available only during the conference and there are VMware people to help you with the labs.
+* I would do Hands on Labs that were not available to do anytime. There are some HOLs that are available only during the conference and there are VMware people to help you with the labs.
 * Go to the Expo Area. You can always talk to VMware Engineers at the booths in the Expo Area and watch demos. A lot of Vendors in the Expo Area.
 * Watch for Vendor Parties. They are always fun and drinks | food are always free. The Veeam party in the past was always one of the better parties.
 
