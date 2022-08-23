@@ -45,13 +45,13 @@ VMware Explore is always one of the premiere Technology Events every year. Here 
         </ul>
     <b>Topics:</b>
         <ul>
-            <li><a href="https://event.vmware.com/flow/vmware/explore2022us/content/page/catalog?search=&tab.contentcatalogtabs=1627421929827001vRXW&search.products=1648147094265002OYZz" target="_blank" style="color: black;">SaltStack</a></li>
-            <li><a href="https://event.vmware.com/flow/vmware/explore2022us/content/page/catalog?search=&tab.contentcatalogtabs=1627421929827001vRXW&search.products=1617723187121041eTVC" target="_blank" style="color: black;">PowerCLI</a></li>
-            <li><a href="https://event.vmware.com/flow/vmware/explore2022us/content/page/catalog?search=&tab.contentcatalogtabs=1627421929827001vRXW&search.products=1617723187121059epPG" target="_blank" style="color: black;">vRealize Automation</a></li>
-            <li><a href="https://event.vmware.com/flow/vmware/explore2022us/content/page/catalog?search=&tab.contentcatalogtabs=1627421929827001vRXW&search.products=option_1619542088058" target="_blank" style="color: black;">vRealize Operations</a></li>
+            <li><a href="https://event.vmware.com/flow/vmware/explore2022us/content/page/catalog?search=saltstack&tab.contentcatalogtabs=1627421929827001vRXW" target="_blank" style="color: black;">SaltStack</a></li>
+            <li><a href="https://event.vmware.com/flow/vmware/explore2022us/content/page/catalog?search=Powercli&tab.contentcatalogtabs=1627421929827001vRXW" target="_blank" style="color: black;">PowerCLI</a></li>
+            <li><a href="https://event.vmware.com/flow/vmware/explore2022us/content/page/catalog?search=vRealize%20Automation&tab.contentcatalogtabs=1627421929827001vRXW" target="_blank" style="color: black;">vRealize Automation</a></li>
+            <li><a href="https://event.vmware.com/flow/vmware/explore2022us/content/page/catalog?search=vRealize%20Operations&tab.contentcatalogtabs=1627421929827001vRXW" target="_blank" style="color: black;">vRealize Operations</a></li>
             <li><a href="https://event.vmware.com/flow/vmware/explore2022us/content/page/catalog?search=virtually%20speaking&tab.contentcatalogtabs=1627421929827001vRXW"                 target="_blank" style="color: black;">Virtually Speaking Podcast Live</a></li>
-            <li><a href="https://event.vmware.com/flow/vmware/explore2022us/content/page/catalog?search=&tab.contentcatalogtabs=1627421929827001vRXW&search.products=1617723187121067ewoy" target="_blank" style="color: black;">vSAN</a></li>
-            <li><a href="https://event.vmware.com/flow/vmware/explore2022us/content/page/catalog?search=&tab.contentcatalogtabs=1627421929827001vRXW&search.products=1617723187121068etRI"         target="_blank" style="color: black;">vSphere</a></li>
+            <li><a href="https://event.vmware.com/flow/vmware/explore2022us/content/page/catalog?search=vSAN&tab.contentcatalogtabs=1627421929827001vRXW" target="_blank" style="color: black;">vSAN</a></li>
+            <li><a href="https://event.vmware.com/flow/vmware/explore2022us/content/page/catalog?search=vsphere&tab.contentcatalogtabs=1627421929827001vRXW"         target="_blank" style="color: black;">vSphere</a></li>
         </ul>
 
 </div>
