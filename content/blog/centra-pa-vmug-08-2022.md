@@ -3,7 +3,7 @@ title: "Central PA VMUG | August 2022"
 description: "description"
 #image: "images/post/vexpert-2022-01.png"
 date: 2020-01-01T00:00:00-05:00
-#categories: ["vExpert"]
+categories: ["VMware Explore"]
 tags:
 - Favorite Links
 - Giving Back
@@ -45,13 +45,13 @@ VMware Explore is always one of the premiere Technology Events every year. Here 
         </ul>
     <b>Topics:</b>
         <ul>
-            <li><a href="https://event.vmware.com/flow/vmware/explore2022us/content/page/catalog?search=&tab.contentcatalogtabs=1627421929827001vRXW&search.product=1648147094265002OYZz" target="_blank" style="color: black;">SaltStack</a></li>
-            <li><a href="https://event.vmware.com/flow/vmware/explore2022us/content/page/catalog?search=&tab.contentcatalogtabs=1627421929827001vRXW&search.product=1617723187121041eTVC" target="_blank" style="color: black;">PowerCLI</a></li>
-            <li><a href="https://event.vmware.com/flow/vmware/explore2022us/content/page/catalog?search=&tab.contentcatalogtabs=1627421929827001vRXW&search.product=1617723187121059epPG" target="_blank" style="color: black;">vRealize Automation</a></li>
-            <li><a href="https://event.vmware.com/flow/vmware/explore2022us/content/page/catalog?search=&tab.contentcatalogtabs=1627421929827001vRXW&search.product=option_1619542088058" target="_blank" style="color: black;">vRealize Operation</a></li>
+            <li><a href="https://event.vmware.com/flow/vmware/explore2022us/content/page/catalog?search=&tab.contentcatalogtabs=1627421929827001vRXW&search.products=1648147094265002OYZz" target="_blank" style="color: black;">SaltStack</a></li>
+            <li><a href="https://event.vmware.com/flow/vmware/explore2022us/content/page/catalog?search=&tab.contentcatalogtabs=1627421929827001vRXW&search.products=1617723187121041eTVC" target="_blank" style="color: black;">PowerCLI</a></li>
+            <li><a href="https://event.vmware.com/flow/vmware/explore2022us/content/page/catalog?search=&tab.contentcatalogtabs=1627421929827001vRXW&search.products=1617723187121059epPG" target="_blank" style="color: black;">vRealize Automation</a></li>
+            <li><a href="https://event.vmware.com/flow/vmware/explore2022us/content/page/catalog?search=&tab.contentcatalogtabs=1627421929827001vRXW&search.products=option_1619542088058" target="_blank" style="color: black;">vRealize Operations</a></li>
             <li><a href="https://event.vmware.com/flow/vmware/explore2022us/content/page/catalog?search=virtually%20speaking&tab.contentcatalogtabs=1627421929827001vRXW"                 target="_blank" style="color: black;">Virtually Speaking Podcast Live</a></li>
-            <li><a href="https://event.vmware.com/flow/vmware/explore2022us/content/page/catalog?search=&tab.contentcatalogtabs=1627421929827001vRXW&search.product=1617723187121067ewoy" target="_blank" style="color: black;">vSAN</a></li>
-            <li><a href="https://event.vmware.com/flow/vmware/explore2022us/content/page/catalog?tab.contentcatalogtabs=1627421929827001vRXW&search.product=1617723187121068etRI"         target="_blank" style="color: black;">vSphere</a></li>
+            <li><a href="https://event.vmware.com/flow/vmware/explore2022us/content/page/catalog?search=&tab.contentcatalogtabs=1627421929827001vRXW&search.products=1617723187121067ewoy" target="_blank" style="color: black;">vSAN</a></li>
+            <li><a href="https://event.vmware.com/flow/vmware/explore2022us/content/page/catalog?search=&tab.contentcatalogtabs=1627421929827001vRXW&search.products=1617723187121068etRI"         target="_blank" style="color: black;">vSphere</a></li>
         </ul>
 
 </div>
@@ -63,6 +63,7 @@ VMware Explore is always one of the premiere Technology Events every year. Here 
         <ul>
             <li><a href="https://twitter.com/VMwareExplore"                             target="_blank" style="color: black;">VMware Explore | Twitter</a></li>
             <li><a href="https://www.eventbrite.com/e/veeams-legendary-party-at-vmware-explore-us-2022-ft-walk-the-moon-tickets-383044023987" target="_blank" style="color: black;">Veeam Party Registration</a></li>
+            <li><a href="https://octo.vmware.com/kit-colberts-dont-miss-playlist-vmware-explore-2022/" target="_blank" style="color: black;">Kit Colbert’s Don’t Miss Playlist</a></li>
             <li><a href="https://www.vladan.fr/top-7-sessions-vmware-explore-2022/" target="_blank" style="color: black;">TOP 7 Sessions VMware Explore 2022 | By Vladan SEGET</a></li>
             <li><a href="https://www.yellow-bricks.com/2022/07/12/top-15-vmware-explore-sessions-to-attend/" target="_blank" style="color: black;">Top 15 VMware Explore Sessions to attend! | By Duncan Epping</a></li>
         </ul>
