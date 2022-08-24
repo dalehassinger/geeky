@@ -1,8 +1,8 @@
 ---
 title: "Central PA VMUG | August 2022"
-description: "description"
+description: "VMware VMUG"
 #image: "images/post/vexpert-2022-01.png"
-date: 2020-01-01T00:00:00-05:00
+date: 2022-08-24T00:00:00-05:00
 categories: ["VMware Explore"]
 tags:
 - Favorite Links
@@ -12,7 +12,7 @@ tags:
 - vCommunity
 - VMware Explore
 - VMWorld
-type: "regular" # available types: [featured/regular]
+type: "featured" # available types: [featured/regular]
 draft: false
 ---
 
@@ -28,6 +28,7 @@ VMware Explore is always one of the premiere Technology Events every year. Here 
 * I always tried to attend the Keynotes to learn about new product announcements and to hear the direction that VMware was going.
 * I attended a lot of sessions. See list of sessions that I would enjoy.
 * I would do Hands on Labs that were not available to do anytime. There are some HOLs that are available only during the conference and there are VMware people to help you with the labs.
+* If you are a TAM customer, there are sessions dedicated to TAM customers.
 * Go to the Expo Area. You can always talk to VMware Engineers at the booths in the Expo Area and watch demos. A lot of Vendors in the Expo Area.
 * Watch for Vendor Parties. They are always fun and drinks | food are always free. The Veeam party in the past was always one of the better parties.
 * See a McLaren F1 car in person, experience the speed of F1 in a fun simulator and learn how VMware helps McLaren F1 accelerate innovation.  
@@ -55,17 +56,24 @@ VMware Explore is always one of the premiere Technology Events every year. Here 
             <li><a href='https://event.vmware.com/flow/vmware/explore2022us/content/page/catalog?search="John Nicholson"'   target="_blank" style="color: black;">John Nicholson</a></li>
             <li><a href='https://event.vmware.com/flow/vmware/explore2022us/content/page/catalog?search="Sam McGeown"'      target="_blank" style="color: black;">Sam McGeown</a></li>
             <li><a href='https://event.vmware.com/flow/vmware/explore2022us/content/page/catalog?search="John Dias"'        target="_blank" style="color: black;">John Dias</a></li>
+            <li><a href='https://event.vmware.com/flow/vmware/explore2022us/content/page/catalog?search="Amanda Blevins"'   target="_blank" style="color: black;">Amanda Blevins</a></li>
+            <li><a href='https://event.vmware.com/flow/vmware/explore2022us/content/page/catalog?search="Kyle Ruddy"'       target="_blank" style="color: black;">Kyle Ruddy</a></li>
             <li><a href='https://event.vmware.com/flow/vmware/explore2022us/content/page/catalog?search="Graham Lockard"'   target="_blank" style="color: black;">Graham Lockard | IT Infrastructure Manager | Penn State University | SaaS with Horizon</a></li>
         </ul>
     <b>Topics:</b>
         <ul>
-            <li><a href='https://event.vmware.com/flow/vmware/explore2022us/content/page/catalog?search=saltstack"'            target="_blank" style="color: black;">SaltStack</a></li>
-            <li><a href='https://event.vmware.com/flow/vmware/explore2022us/content/page/catalog?search="Powercli"'            target="_blank" style="color: black;">PowerCLI</a></li>
-            <li><a href='https://event.vmware.com/flow/vmware/explore2022us/content/page/catalog?search="vRealize Automation"' target="_blank" style="color: black;">vRealize Automation</a></li>
-            <li><a href='https://event.vmware.com/flow/vmware/explore2022us/content/page/catalog?search="vRealize Operations"' target="_blank" style="color: black;">vRealize Operations</a></li>
-            <li><a href='https://event.vmware.com/flow/vmware/explore2022us/content/page/catalog?search="virtually speaking"'  target="_blank" style="color: black;">Virtually Speaking Podcast Live</a></li>
-            <li><a href='https://event.vmware.com/flow/vmware/explore2022us/content/page/catalog?search="vSAN"'                target="_blank" style="color: black;">vSAN</a></li>
-            <li><a href='https://event.vmware.com/flow/vmware/explore2022us/content/page/catalog?search="vsphere"'             target="_blank" style="color: black;">vSphere</a></li>
+            <li><a href='https://event.vmware.com/flow/vmware/explore2022us/content/page/catalog?search=saltstack"'              target="_blank" style="color: black;">SaltStack</a></li>
+            <li><a href='https://event.vmware.com/flow/vmware/explore2022us/content/page/catalog?search="Powercli"'              target="_blank" style="color: black;">PowerCLI</a></li>
+            <li><a href='https://event.vmware.com/flow/vmware/explore2022us/content/page/catalog?search="PowerShell"'            target="_blank" style="color: black;">PowerShell | More sessions this year than I have seen in the past.</a></li>
+            <li><a href='https://event.vmware.com/flow/vmware/explore2022us/content/page/catalog?search="VMware {code} Theater Session"'   target="_blank" style="color: black;">VMware {code}</a></li>
+            <li><a href='https://event.vmware.com/flow/vmware/explore2022us/content/page/catalog?search="vRealize Automation"'   target="_blank" style="color: black;">vRealize Automation</a></li>
+            <li><a href='https://event.vmware.com/flow/vmware/explore2022us/content/page/catalog?search="vRealize Operations"'   target="_blank" style="color: black;">vRealize Operations</a></li>
+            <li><a href='https://event.vmware.com/flow/vmware/explore2022us/content/page/catalog?search="vRealize Orchestrator"' target="_blank" style="color: black;">vRealize Orchestrator</a></li>
+            <li><a href='https://event.vmware.com/flow/vmware/explore2022us/content/page/catalog?search="vRealize Log Insight"'  target="_blank" style="color: black;">vRealize Log Insight</a></li>
+            <li><a href='https://event.vmware.com/flow/vmware/explore2022us/content/page/catalog?search="virtually speaking"'    target="_blank" style="color: black;">Virtually Speaking Podcast Live</a></li>
+            <li><a href='https://event.vmware.com/flow/vmware/explore2022us/content/page/catalog?search="vSAN"'                  target="_blank" style="color: black;">vSAN</a></li>
+            <li><a href='https://event.vmware.com/flow/vmware/explore2022us/content/page/catalog?search="vsphere"'               target="_blank" style="color: black;">vSphere</a></li>
+            <li><a href='https://event.vmware.com/flow/vmware/explore2022us/content/page/catalog?search="DevOps"'                target="_blank" style="color: black;">DevOps</a></li>
         </ul>
 
 </div>
