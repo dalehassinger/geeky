@@ -30,6 +30,9 @@ VMware Explore is always one of the premiere Technology Events every year. Here 
 * I would do Hands on Labs that were not available to do anytime. There are some HOLs that are available only during the conference and there are VMware people to help you with the labs.
 * Go to the Expo Area. You can always talk to VMware Engineers at the booths in the Expo Area and watch demos. A lot of Vendors in the Expo Area.
 * Watch for Vendor Parties. They are always fun and drinks | food are always free. The Veeam party in the past was always one of the better parties.
+* See a McLaren F1 car in person, experience the speed of F1 in a fun simulator and learn how VMware helps McLaren F1 accelerate innovation.  
+  
+{{< image title="" w="" h="" o="webp q1" p="center" c="rounded" src="images/post/f1.jpg" >}}
 
 ###### VMware Explore Sessions:
 <div>
@@ -40,6 +43,10 @@ VMware Explore is always one of the premiere Technology Events every year. Here 
 </div>
 
 <div style="background-color:#fff5e6; Padding:20px; border: 1.5px solid #f2f2f2; color: black;" >
+    <b>Agenda:</b>
+        <ul>
+            <li><a href='https://www.vmware.com/explore/us/attend/agenda.html' target="_blank" style="color: black;">VMware Explore Agenda</a></li>
+        </ul>
     <b>Speakers:</b>
         <ul>
             <li><a href='https://event.vmware.com/flow/vmware/explore2022us/content/page/catalog?search="William Lam"'      target="_blank" style="color: black;">William Lam</a></li>
@@ -48,6 +55,7 @@ VMware Explore is always one of the premiere Technology Events every year. Here 
             <li><a href='https://event.vmware.com/flow/vmware/explore2022us/content/page/catalog?search="John Nicholson"'   target="_blank" style="color: black;">John Nicholson</a></li>
             <li><a href='https://event.vmware.com/flow/vmware/explore2022us/content/page/catalog?search="Sam McGeown"'      target="_blank" style="color: black;">Sam McGeown</a></li>
             <li><a href='https://event.vmware.com/flow/vmware/explore2022us/content/page/catalog?search="John Dias"'        target="_blank" style="color: black;">John Dias</a></li>
+            <li><a href='https://event.vmware.com/flow/vmware/explore2022us/content/page/catalog?search="Graham Lockard"'   target="_blank" style="color: black;">Graham Lockard | IT Infrastructure Manager | Penn State University | SaaS with Horizon</a></li>
         </ul>
     <b>Topics:</b>
         <ul>
