@@ -59,8 +59,8 @@ VMworld online conference: 10/05/2021-10/07/2021
 
 ---
 
-Link to session in VMworld Content Catalog:
-###### <a href="https://myevents.vmware.com/widget/vmware/vmworld2021/catalog?search=mcl1895" target="_blank">Manage Windows Workloads Through vRealize Automation SaltStack Config [MCL1895]</a>
+Link to session in VMworld Content Catalog:  
+<a href="https://www.vmware.com/vmworld/en/video-library/video-landing.html?sessionid=1621001698288001Ro2y&videoId=6274088354001" target="_blank">Manage Windows Workloads Through vRealize Automation SaltStack Config [MCL1895]</a>
 
 ---
 

@@ -57,3 +57,5 @@ So register today for SaltConf 2021 and attend my session.
 In our Presentation we will show you how to use SaltStack Config to manage Microsoft Windows Servers. How to use Salt to install software, work with Windows Services, make Registry changes, configuration management, how to quickly respond to Zero-Day Security patching, how to add vCenter TAGs/NSX-T TAGS/ Active Directory OUs as minion grain information, how to target minions, minion beacons, salt reactors and other normal day to day Windows Server administration.  
 
 ---
+
+###### <a href="https://youtu.be/PNgG_vXo8S8" target="_blank">Link to watch SaltConf21 Presentation</a>
