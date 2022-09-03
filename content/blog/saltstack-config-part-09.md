@@ -15,7 +15,7 @@ tags:
 - Configuration Management
 - Automation
 - salt-api
-type: "regular" # available types: [featured/regular]
+type: "featured" # available types: [featured/regular]
 draft: false
 ---
 <div>

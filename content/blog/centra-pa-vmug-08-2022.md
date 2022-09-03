@@ -12,7 +12,7 @@ tags:
 - vCommunity
 - VMware Explore
 - VMWorld
-type: "featured" # available types: [featured/regular]
+type: "regular" # available types: [featured/regular]
 draft: false
 ---
 
@@ -30,6 +30,7 @@ VMware Explore is always one of the premiere Technology Events every year. Here 
 * I would do Hands on Labs that were not available to do anytime. There are some HOLs that are available only during the conference and there are VMware people to help you with the labs.
 * If you are a TAM customer, there are sessions dedicated to TAM customers.
 * Go to the Expo Area. You can always talk to VMware Engineers at the booths in the Expo Area and watch demos. A lot of Vendors in the Expo Area.
+* I would allows attend some of the vBrownbag Tech Talks. The Tech Talks were a 10 - 15 minute presentation.
 * Watch for Vendor Parties. They are always fun and drinks | food are always free. The Veeam party in the past was always one of the better parties.
 * See a McLaren F1 car in person, experience the speed of F1 in a fun simulator and learn how VMware helps McLaren F1 accelerate innovation.  
   
@@ -50,30 +51,31 @@ VMware Explore is always one of the premiere Technology Events every year. Here 
         </ul>
     <b>Speakers:</b>
         <ul>
-            <li><a href='https://event.vmware.com/flow/vmware/explore2022us/content/page/catalog?search="William Lam"'      target="_blank" style="color: black;">William Lam</a></li>
-            <li><a href='https://event.vmware.com/flow/vmware/explore2022us/content/page/catalog?search="Vincent Riccio"'   target="_blank" style="color: black;">Vincent Riccio</a></li>
-            <li><a href='https://event.vmware.com/flow/vmware/explore2022us/content/page/catalog?search="Chris McClanahan"' target="_blank" style="color: black;">Chris McClanahan</a></li>
-            <li><a href='https://event.vmware.com/flow/vmware/explore2022us/content/page/catalog?search="John Nicholson"'   target="_blank" style="color: black;">John Nicholson</a></li>
-            <li><a href='https://event.vmware.com/flow/vmware/explore2022us/content/page/catalog?search="Sam McGeown"'      target="_blank" style="color: black;">Sam McGeown</a></li>
-            <li><a href='https://event.vmware.com/flow/vmware/explore2022us/content/page/catalog?search="John Dias"'        target="_blank" style="color: black;">John Dias</a></li>
-            <li><a href='https://event.vmware.com/flow/vmware/explore2022us/content/page/catalog?search="Amanda Blevins"'   target="_blank" style="color: black;">Amanda Blevins</a></li>
-            <li><a href='https://event.vmware.com/flow/vmware/explore2022us/content/page/catalog?search="Kyle Ruddy"'       target="_blank" style="color: black;">Kyle Ruddy</a></li>
+            <li><a href='https://event.vmware.com/flow/vmware/explore2022us/content/page/catalog?search="William Lam"'      target="_blank" style="color: black;">William Lam | Cloud Infrastructure Business Group</a></li>
+            <li><a href='https://event.vmware.com/flow/vmware/explore2022us/content/page/catalog?search="Vincent Riccio"'   target="_blank" style="color: black;">Vincent Riccio | Cloud Management Business Unit</a></li>
+            <li><a href='https://event.vmware.com/flow/vmware/explore2022us/content/page/catalog?search="Chris McClanahan"' target="_blank" style="color: black;">Chris McClanahan | Cloud Management Business Unit</a></li>
+            <li><a href='https://event.vmware.com/flow/vmware/explore2022us/content/page/catalog?search="Ariel Sanchez"'    target="_blank" style="color: black;">Ariel Sanchez | One of the most accomplished TAMs you will meet. A mentor to many people in TECH</a></li>
+            <li><a href='https://event.vmware.com/flow/vmware/explore2022us/content/page/catalog?search="John Nicholson"'   target="_blank" style="color: black;">John Nicholson | Storage and Availability Business Unit</a></li>
+            <li><a href='https://event.vmware.com/flow/vmware/explore2022us/content/page/catalog?search="Sam McGeown"'      target="_blank" style="color: black;">Sam McGeown | Technical Marketing team for Cloud Automation</a></li>
+            <li><a href='https://event.vmware.com/flow/vmware/explore2022us/content/page/catalog?search="John Dias"'        target="_blank" style="color: black;">John Dias | Cloud Management solutions</a></li>
+            <li><a href='https://event.vmware.com/flow/vmware/explore2022us/content/page/catalog?search="Amanda Blevins"'   target="_blank" style="color: black;">Amanda Blevins | Vice President and Chief Technology Officer for the Americas</a></li>
+            <li><a href='https://event.vmware.com/flow/vmware/explore2022us/content/page/catalog?search="Kyle Ruddy"'       target="_blank" style="color: black;">Kyle Ruddy | Senior Technical Product Marketing Manager for HashiCorp</a></li>
             <li><a href='https://event.vmware.com/flow/vmware/explore2022us/content/page/catalog?search="Graham Lockard"'   target="_blank" style="color: black;">Graham Lockard | IT Infrastructure Manager | Penn State University | SaaS with Horizon</a></li>
         </ul>
     <b>Topics:</b>
         <ul>
-            <li><a href='https://event.vmware.com/flow/vmware/explore2022us/content/page/catalog?search=saltstack"'              target="_blank" style="color: black;">SaltStack</a></li>
-            <li><a href='https://event.vmware.com/flow/vmware/explore2022us/content/page/catalog?search="Powercli"'              target="_blank" style="color: black;">PowerCLI</a></li>
-            <li><a href='https://event.vmware.com/flow/vmware/explore2022us/content/page/catalog?search="PowerShell"'            target="_blank" style="color: black;">PowerShell | More sessions this year than I have seen in the past.</a></li>
+            <li><a href='https://event.vmware.com/flow/vmware/explore2022us/content/page/catalog?search=saltstack"'                        target="_blank" style="color: black;">SaltStack</a></li>
+            <li><a href='https://event.vmware.com/flow/vmware/explore2022us/content/page/catalog?search="Powercli"'                        target="_blank" style="color: black;">PowerCLI</a></li>
+            <li><a href='https://event.vmware.com/flow/vmware/explore2022us/content/page/catalog?search="PowerShell"'                      target="_blank" style="color: black;">PowerShell | More sessions this year than I have seen in the past.</a></li>
             <li><a href='https://event.vmware.com/flow/vmware/explore2022us/content/page/catalog?search="VMware {code} Theater Session"'   target="_blank" style="color: black;">VMware {code}</a></li>
-            <li><a href='https://event.vmware.com/flow/vmware/explore2022us/content/page/catalog?search="vRealize Automation"'   target="_blank" style="color: black;">vRealize Automation</a></li>
-            <li><a href='https://event.vmware.com/flow/vmware/explore2022us/content/page/catalog?search="vRealize Operations"'   target="_blank" style="color: black;">vRealize Operations</a></li>
-            <li><a href='https://event.vmware.com/flow/vmware/explore2022us/content/page/catalog?search="vRealize Orchestrator"' target="_blank" style="color: black;">vRealize Orchestrator</a></li>
-            <li><a href='https://event.vmware.com/flow/vmware/explore2022us/content/page/catalog?search="vRealize Log Insight"'  target="_blank" style="color: black;">vRealize Log Insight</a></li>
-            <li><a href='https://event.vmware.com/flow/vmware/explore2022us/content/page/catalog?search="virtually speaking"'    target="_blank" style="color: black;">Virtually Speaking Podcast Live</a></li>
-            <li><a href='https://event.vmware.com/flow/vmware/explore2022us/content/page/catalog?search="vSAN"'                  target="_blank" style="color: black;">vSAN</a></li>
-            <li><a href='https://event.vmware.com/flow/vmware/explore2022us/content/page/catalog?search="vsphere"'               target="_blank" style="color: black;">vSphere</a></li>
-            <li><a href='https://event.vmware.com/flow/vmware/explore2022us/content/page/catalog?search="DevOps"'                target="_blank" style="color: black;">DevOps</a></li>
+            <li><a href='https://event.vmware.com/flow/vmware/explore2022us/content/page/catalog?search="vRealize Automation"'             target="_blank" style="color: black;">vRealize Automation</a></li>
+            <li><a href='https://event.vmware.com/flow/vmware/explore2022us/content/page/catalog?search="vRealize Operations"'             target="_blank" style="color: black;">vRealize Operations</a></li>
+            <li><a href='https://event.vmware.com/flow/vmware/explore2022us/content/page/catalog?search="vRealize Orchestrator"'           target="_blank" style="color: black;">vRealize Orchestrator</a></li>
+            <li><a href='https://event.vmware.com/flow/vmware/explore2022us/content/page/catalog?search="vRealize Log Insight"'            target="_blank" style="color: black;">vRealize Log Insight</a></li>
+            <li><a href='https://event.vmware.com/flow/vmware/explore2022us/content/page/catalog?search="virtually speaking"'              target="_blank" style="color: black;">Virtually Speaking Podcast Live</a></li>
+            <li><a href='https://event.vmware.com/flow/vmware/explore2022us/content/page/catalog?search="vSAN"'                            target="_blank" style="color: black;">vSAN</a></li>
+            <li><a href='https://event.vmware.com/flow/vmware/explore2022us/content/page/catalog?search="vsphere"'                         target="_blank" style="color: black;">vSphere</a></li>
+            <li><a href='https://event.vmware.com/flow/vmware/explore2022us/content/page/catalog?search="DevOps"'                          target="_blank" style="color: black;">DevOps</a></li>
         </ul>
 
 </div>
@@ -83,11 +85,13 @@ VMware Explore is always one of the premiere Technology Events every year. Here 
 <div style="background-color:#fff5e6; Padding:20px; border: 1.5px solid #f2f2f2; color: black;" >
     <b>Sessions:</b>
         <ul>
-            <li><a href="https://twitter.com/VMwareExplore"                             target="_blank" style="color: black;">VMware Explore | Twitter</a></li>
+            <li><a href="https://twitter.com/VMwareExplore"                                                                                   target="_blank" style="color: black;">VMware Explore | Twitter</a></li>
+            <li><a href=https://event.vmware.com/flow/vmware/explore2022us/content/page/catalog?search="VMTN TechTalk"'                       target="_blank" style="color: black;">VMTN TechTalk</a></li>
+            <li><a href="https://vmblog.com/archive/2022/08/04/vmwareexplore-2022-us-list-of-parties-and-events.aspx" target="_blank" style="color: black;">VMware Explore Party List</a></li>
             <li><a href="https://www.eventbrite.com/e/veeams-legendary-party-at-vmware-explore-us-2022-ft-walk-the-moon-tickets-383044023987" target="_blank" style="color: black;">Veeam Party Registration</a></li>
-            <li><a href="https://octo.vmware.com/kit-colberts-dont-miss-playlist-vmware-explore-2022/" target="_blank" style="color: black;">Kit Colbert’s Don’t Miss Playlist</a></li>
-            <li><a href="https://www.vladan.fr/top-7-sessions-vmware-explore-2022/" target="_blank" style="color: black;">TOP 7 Sessions VMware Explore 2022 | By Vladan SEGET</a></li>
-            <li><a href="https://www.yellow-bricks.com/2022/07/12/top-15-vmware-explore-sessions-to-attend/" target="_blank" style="color: black;">Top 15 VMware Explore Sessions to attend! | By Duncan Epping</a></li>
+            <li><a href="https://octo.vmware.com/kit-colberts-dont-miss-playlist-vmware-explore-2022/"                                        target="_blank" style="color: black;">Kit Colbert’s Don’t Miss Playlist</a></li>
+            <li><a href="https://www.vladan.fr/top-7-sessions-vmware-explore-2022/"                                                           target="_blank" style="color: black;">TOP 7 Sessions VMware Explore 2022 | By Vladan SEGET</a></li>
+            <li><a href="https://www.yellow-bricks.com/2022/07/12/top-15-vmware-explore-sessions-to-attend/"                                  target="_blank" style="color: black;">Top 15 VMware Explore Sessions to attend! | By Duncan Epping</a></li>
         </ul>
 </div>
 
