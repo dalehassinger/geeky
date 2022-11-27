@@ -3,7 +3,7 @@ title: "How vRealize Operations can help with Right Sizing VMs"
 description: "description"
 image: "images/post/vro.png"
 date: 2021-05-15T00:00:00-05:00
-categories: ["vRealize Operations"]
+categories: ["vRealize Operations","VMware Aria"]
 tags:
 - vROPS
 - Monitoring
@@ -13,6 +13,7 @@ tags:
 - Performance
 - Dashboard
 - Tip and Tricks
+- VMware Aria
 type: "regular" # available types: [featured/regular]
 draft: false
 ---

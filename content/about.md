@@ -30,6 +30,13 @@ experience:
   enable: true
   title: "Products that I Blog About"
   experience_list:
+  - "VMware Aria"
+  - "VMware Aria Hub"
+  - "VMware Aria Graph"
+  - "VMware Aria Automation"
+  - "VMware Aria Automation Config"
+  - "VMware Aria Operations"
+  - "VMware Aria Operations for Logs"
   - "VMware vSphere"
   - "VMware vCenter"
   - "vRealize Automation"

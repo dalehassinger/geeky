@@ -3,7 +3,7 @@ title: "VMware vRealize SaltStack Config cheat sheet for a Windows Server Admin"
 description: "description"
 image: "images/post/salt.png"
 date: 2022-03-06T00:00:00-05:00
-categories: ["SaltStack Config"]
+categories: ["SaltStack Config","VMware Aria"]
 tags:
 - Salt
 - SaltStack
@@ -16,6 +16,7 @@ tags:
 - Automation
 - grains
 - PowerShell Module
+- VMware Aria
 type: "regular" # available types: [featured/regular]
 draft: false
 ---

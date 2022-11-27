@@ -3,7 +3,7 @@ title: "VMware vRealize SaltStack Config as a Windows Server Admin - Part 9"
 description: "description"
 image: "images/post/salt.png"
 date: 2022-06-10T00:00:00-05:00
-categories: ["SaltStack Config"]
+categories: ["SaltStack Config","VMware Aria"]
 tags:
 - Salt
 - SaltStack
@@ -15,6 +15,7 @@ tags:
 - Configuration Management
 - Automation
 - salt-api
+- VMware Aria
 type: "featured" # available types: [featured/regular]
 draft: false
 ---

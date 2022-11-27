@@ -3,7 +3,7 @@ title: "VMware vRealize SaltStack Config API"
 description: "description"
 image: "images/post/salt.png"
 date: 2022-06-26T00:00:00-05:00
-categories: ["SaltStack Config"]
+categories: ["SaltStack Config","VMware Aria"]
 tags:
 - Salt
 - SaltStack
@@ -15,6 +15,7 @@ tags:
 - Automation
 - salt-api
 - Python
+- VMware Aria
 type: "featured" # available types: [featured/regular]
 draft: false
 ---
