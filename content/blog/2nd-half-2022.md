@@ -3,7 +3,7 @@ title: "What have I been up to? | 2nd half 2022"
 description: "description"
 image: "images/post/calendar-2022.png"
 date: 2022-11-01T00:00:00-05:00
-categories: ["PowerBlock"]
+categories: ["Career"]
 tags:
 - VMware
 - Employee

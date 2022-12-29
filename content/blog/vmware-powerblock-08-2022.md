@@ -10,7 +10,7 @@ tags:
 - vRA
 - vRealize Automation
 - VMware
-type: "featured" # available types: [featured/regular]
+type: "regular" # available types: [featured/regular]
 draft: false
 ---
 

@@ -47,6 +47,7 @@ experience:
   - "vRealize Log Insight"
   - "Windows Servers"
   - "Linux Servers"
+  - "Ansible"
 
 ---
 
@@ -56,7 +57,7 @@ TAM ( Technical Account Manager) | VMware vExpert 2020 - 2022 | VMware vExpert C
 If you can script it, You can Automate it!  
 </b></div>
 
-* The views and opinions expressed on this blog are my strictly my own and do not reflect the views and opinions of my employer. I Blog about Subjects | Products that I find interesting and will hopefully help someone get started with Automation | Monitoring | Logging by providing some tips | tricks | processes needed.  
+* The views and opinions expressed on this blog are my strictly my own and do not reflect the views and opinions of my employer. I Blog about Subjects and Products that I find interesting and will hopefully help someone get started on their Automation, Monitoring and Logging journey by providing some tips|tricks|processes|code needed.  
 
 My current focus is Enterprise Automation | Monitoring and Logging. I have created an IaC (Infrastructure as Code) Environment. I am using VMware vRealize Automation and SaltStack Config to complete server builds, software installs, schedule VM snap shots, Microsoft 365 automation, Citrix Management, Automate Data Center Flips, Server Decommissions, and many other Day 2 processes… For monitoring I use vRealize Operations for the “Single Pane of Glass” experience. I also use vRealize Log Insight for logging and LCM (Life Cycle Manager) for installing all the vRealize Products.
 
@@ -87,6 +88,13 @@ The code that I have shared I use with vRealize Automation Cloud Templates/Catal
 * List of Bloggers that I follow and have learned a lot by them “Giving Back”: Cody De Arkland, Luc Dekens, Kyle Ruddy, William Lam, Nathen Bennett, Vince Wood, Alan Renouf.
 
 * and anyone else that helped me in my journey called my career…
+
+<b>Recent Certifications:</b>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="ab871e8b-6d41-42da-8fc0-adef6111fb28" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="75762a00-f3b2-4b21-90db-18a8b73e125b" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="956b447a-a2db-472c-ba12-f10f328dfbf4" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 <div style="background-color:#ccffcc; Padding:20px;" >
 I like to wear Crocs and I like VMware Products. So what better name than "vCrocs"...

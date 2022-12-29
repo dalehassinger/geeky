@@ -16,7 +16,7 @@ tags:
 - Automation
 - salt-api
 - VMware Aria
-type: "featured" # available types: [featured/regular]
+type: "regular" # available types: [featured/regular]
 draft: false
 ---
 <div>
